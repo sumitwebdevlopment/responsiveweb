@@ -1,0 +1,106 @@
+#topheader
+{
+   border-bottom:1px solid #EBEBEB;
+   
+}
+#topheader a
+{
+color:rgb(89, 89, 194);
+font-weight:600;
+font-size:0.89rem;
+}
+.container-fluid
+{
+  
+  padding-left: 0px;
+  padding-right: 0px;
+  background-color:rgb(46, 81, 177);
+}
+ nav{
+   font-size: 1.3rem;
+   font-weight:500;
+ }
+ /*START FOOTER*/
+ .full-footer
+ {
+   background-color:#031b2e;
+ 
+   width:100%;
+ }
+ .top-footer p 
+ {
+  color:rgb(255, 255, 255);
+ }
+ .top-footer a
+ {
+  color:rgb(255, 255, 255);
+  font-weight: 700;
+ }
+
+ .bottom-footer
+ {
+   background-color: #031b2e;
+   color:silver;
+   font-size:12px;
+   text-align:center;
+   width:100%;
+ }
+ /*END FOOTER*/
+ /*homepage blue section start*/
+ .top-bluesection
+ {
+   background-color:rgb(40, 172, 224);
+   color:whitesmoke;
+   font-weight:600;
+ }
+ .top-bluesection a
+ {
+  color:whitesmoke;
+  font-weight:600;
+ }
+ /*homepage blue section start*/
+
+.quality-img
+{
+  width:170px;
+}
+ /*slim strip button start*/
+ .slim-strip
+ {
+   background-color: rgb(37, 74, 122);
+   color:silver;
+   padding-bottom:5px;
+   padding-top:5px;
+   
+ }
+ /*slim strip button end*/
+  /*About us start*/
+  .section-breadcrumbs
+  {
+    background-color:rgb(238, 253, 252);
+    border-bottom: 1px solid rgb(76, 123, 185);
+    
+    
+  }
+  .breadcrumb
+  {
+    background-color:rgb(238, 253, 252) ;
+    
+  }
+  .about-web-development
+  {
+    background-color: rgb(148, 191, 248);
+  }
+  /*About us end*/
+  /*our team start*/
+  .our-team
+  {
+    background-color:rgb(238, 253, 252);
+  }
+  /*our team end*/
+  /*contactuspage*/
+  .address P
+  {
+font-weight:600;
+  }
+   /*contactuspage*/
